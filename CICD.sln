@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CICD", "CICD\CICD.csproj", "{1CBF8312-5D7A-4715-A6F0-D3DB39F2D9E2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CICD_UTs", "CICD_UTs\CICD_UTs.csproj", "{0759C89E-A266-49A8-B3A7-F011A57BD4F4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1CBF8312-5D7A-4715-A6F0-D3DB39F2D9E2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1CBF8312-5D7A-4715-A6F0-D3DB39F2D9E2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1CBF8312-5D7A-4715-A6F0-D3DB39F2D9E2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1CBF8312-5D7A-4715-A6F0-D3DB39F2D9E2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0759C89E-A266-49A8-B3A7-F011A57BD4F4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0759C89E-A266-49A8-B3A7-F011A57BD4F4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0759C89E-A266-49A8-B3A7-F011A57BD4F4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0759C89E-A266-49A8-B3A7-F011A57BD4F4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
